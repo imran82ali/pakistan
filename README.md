@@ -23,12 +23,12 @@ In `src/main.rs` you can use like this:
 use pakistan;
 fn main() {
     println!("Hello, world!");
-    paksitan::islamabad::piaic();
+    pakistan::islamabad::piaic();
 }
 ```
 following will also work:
 ```
-use paksitan::islamabad::piaic;
+use pakistan::islamabad::piaic;
 fn main() {
     println!("Hello, world!");
     piaic();
